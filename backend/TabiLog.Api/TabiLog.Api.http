@@ -1,0 +1,6 @@
+@TabiLog.Api_HostAddress = http://localhost:5185
+
+GET {{TabiLog.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
